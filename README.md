@@ -1,2 +1,2 @@
 # nocnoc_beta
-Beta HTMLs for NocNoc
+Buyer HTMLs for NocNoc
